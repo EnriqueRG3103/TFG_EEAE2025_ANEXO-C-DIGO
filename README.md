@@ -13,8 +13,8 @@ Códigos anexados a la entrega del Trabajo de Fin de Grado "Diseño de un algori
 **Código 10** - envelope_sfcn.c: S-function que calcula la envolvente de una señal  
 **Código 11** - vars_latdir.m: Prototipado de ganancias (lateral-direccional)  
 **Código 12** - vars_long.m: Prototipado de ganancias (lazos longitudinales)  
-**Código 13** - getRunwayLines.m: Función para el cálculo de la proyección de líneas de pista
-**Código 14** - transformToCamera.m: Función auxiliar para la generación de líneas de pista. Coordenadas en sistema de cámara 
+**Código 13** - getRunwayLines.m: Función para el cálculo de la proyección de líneas de pista  
+**Código 14** - transformToCamera.m: Función auxiliar para la generación de líneas de pista. Coordenadas en sistema de cámara  
 **Código 15** - poseEstimator.m: Función de estimación de posición dados los puntos en pantalla  
 **Código 16** - realPose.m: Función de cálculo de posición real  
 **Código 17** - yolo_rwy.py: Archivo de configuración del modelo YOLOv8 
