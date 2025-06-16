@@ -1,4 +1,4 @@
-# TFG_EEAE2025_ANEXO-C-DIGO
+# TFG_EEAE2025_ANEXO-CODIGO
 Códigos anexados a la entrega del Trabajo de Fin de Grado "Diseño de un algoritmo de aterrizaje automático por visión artificial para UAV" por Enrique Román García
 
 **Código 1** - UDP_encode.m: Función codificadora del mensaje UDP  
