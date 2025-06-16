@@ -30,5 +30,3 @@ Códigos anexados a la entrega del Trabajo de Fin de Grado "Diseño de un algori
 **Código 27** - VisionApp.cpp: Ejecutable principal de procesado visual  
 **Código 28** - RunwayDetector.cpp: Implementación del módulo RunwayDetector  
 
-Código 27 - VisionApp.cpp: Ejecutable principal de procesado visual
-Código 28 - RunwayDetector.cpp: Implementación del módulo RunwayDetector
