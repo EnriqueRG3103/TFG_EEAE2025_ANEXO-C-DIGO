@@ -4,7 +4,7 @@ Códigos anexados a la entrega del Trabajo de Fin de Grado "Diseño de un algori
 **Código 1** - UDP_encode.m: Función codificadora del mensaje UDP  
 **Código 2** - UDP_decode.m: Función decodificadora del mensaje UDP (Channel_to_single como auxiliar)  
 **Código 3** - hold_last_SFcn.c: S-function en C que mantiene el último valor recibido hasta llegada del siguiente  
-**Código 4** -   
+**Código 4** - geomass_properties.m: Modelo de aronave Cessna-172SP. Propiedades geométricas, de masa e inercia
 **Código 5** - dim_coeff.m: Derivadas de estabilidad dimensionales (Cessna-172SP)  
 **Código 6** - trim_algo.m: Algoritmo de trimado (punto de equilibrio)  
 **Código 7** - model_3dof.m: Modelo 3-DOF auxiliar para el trimado  
