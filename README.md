@@ -3,8 +3,8 @@ Códigos anexados a la entrega del Trabajo de Fin de Grado "Diseño de un algori
 
 **Código 1** - UDP_encode.m: Función codificadora del mensaje UDP  
 **Código 2** - UDP_decode.m: Función decodificadora del mensaje UDP (Channel_to_single como auxiliar)  
-**Código 3** - adim_coeff.m: Modelo de aeronave Cessna-172SP. Derivadas de estabilidad adimensionales 
-**Código 4** - geomass_properties.m: Modelo de aronave Cessna-172SP. Propiedades geométricas, de masa e inercia
+**Código 3** - adim_coeff.m: Modelo de aeronave Cessna-172SP. Derivadas de estabilidad adimensionales  
+**Código 4** - geomass_properties.m: Modelo de aronave Cessna-172SP. Propiedades geométricas, de masa e inercia  
 **Código 5** - dim_coeff.m: Derivadas de estabilidad dimensionales (Cessna-172SP)  
 **Código 6** - trim.m: Algoritmo de trimado (Fuente: Stevens)  
 **Código 7** - transp.m: Modelo 3-DOF auxiliar para el trimado (Fuente: Stevens)  
